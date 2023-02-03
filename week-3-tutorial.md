@@ -13,10 +13,10 @@ This is the first tutorial for the Smart Contract module.
 
 | Binary | Hex | Decimal |
 | ------ | ----- | ------ |
-| 11111111 |  |   |
-| 11110000 |  |   |
-| | 0xA7 |  | 
-| | | 435   |
+| 11111111 | ff | 255  |
+| 11110000 | f0 | 240  |
+|10100111 | 0xA7 | 167 | 
+|110110011 |1b3 | 435   |
 
 
 * 0.B) Using the website block explorer https://blockchair.com/bitcoin/, take a look the latest block in Bitcoin. Select the hex string that is the block's header. Using whatever tools you like, convert this block header to bianry and decimal. 
